@@ -5,7 +5,7 @@ const Regester = () => {
         <div>
             This is reageter 
         </div>
-    );
+    ); 
 };
 
 export default Regester;
