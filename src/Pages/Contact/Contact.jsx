@@ -7,7 +7,7 @@ const Contact = () => {
       <SectionBanner headLine={"Contact Us"} text={"We'd like to hear from you"}></SectionBanner>
       <div className="my-16">
       <h3 className="text-5xl text-center font-semibold text-gray-6 mb-16">
-        How can we help you?
+        How can we help you let us know?
       </h3>
       <div className="md:w-1/2 mx-auto">
         <div className="flex justify-between mb-10">
