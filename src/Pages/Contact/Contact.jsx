@@ -25,7 +25,7 @@ const Contact = () => {
           </div>
           <div>
             <label className="font-semibold text-gray-600 uppercase">
-              Your Email Address*
+              Your Email Address
             </label>
             <br />
             <input
