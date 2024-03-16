@@ -13,7 +13,7 @@ const Contact = () => {
         <div className="flex justify-between mb-10">
           <div>
             <label className="font-semibold text-gray-600 uppercase">
-              Your Name*
+              Your Name
             </label>
             <br />
             <input
